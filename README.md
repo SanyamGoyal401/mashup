@@ -51,7 +51,7 @@ To get started with Project Mashup, follow these steps:
 
 ## Live Link
 
-Visit the live version of Project Mashup [here](https://your-live-link.com).
+Visit the live version of Project Mashup [here](https://mashup-7w8k.onrender.com).
 
 ## Dependencies
 
